@@ -8,13 +8,13 @@ This sheet is created to help Steve and his parents to analyze over a certain st
 
 ### The Data
 
-Two sets of data are presented and have the exact same format. Each set includes the 12 stocks information with the year of 2017 and 2018. Information such as each stock's value, the date the stock was issued, the opening, closing and adjusted price, the highest and lowest of price; and the volume of each stock. The task is to retrieve each ticker with it's daily volumne as well as the returning. 
+Two sets of data are presented and have the exact same format. Each set includes the 12 stocks information with the year of 2017 and 2018. Information includes such as each stock's value, the date the stock was issued, the opening, closing and adjusted price, the highest and lowest of price; and the volume of each stock. The task is to retrieve each ticker with it's daily volumne as well as the returning. 
 
 ## Results
 
 ### Analysis
 
-Before refactoring the code, I began by copying the code that was needed to create the input box, chart headers, ticker array, and to activate the appropriate worksheet. The steps were then listed out in order to set the structure for the refactoring. Below is the instruction and code as written in the file.
+The neccessery steps before refactoring are create an outline for the code, which is the comment section. Then, the previous codes are copied from the old set of codes, which includes input box, headers, ticker array and activation of the appropriate worksheet. Below is step by step.
 
 #### 1. The 'tickers' is set equal to zero before looping over rows
 <img width="168" alt="Screen Shot 2022-04-16 at 4 33 53 PM" src="https://user-images.githubusercontent.com/102835776/163694337-1bd7639b-827f-4744-9921-9fd46c7b452a.png">
@@ -49,10 +49,17 @@ Before refactoring the code, I began by copying the code that was needed to crea
 <img width="257" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/102835776/163695089-2e5ca9ab-2caf-419e-b171-edb49035c12a.png">
 <img width="247" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/102835776/163695093-0119005e-78d7-4a70-8d97-5f76e6e3ed8c.png">
 
-
-
-
 ## Sumary
+
 ### Pros
+- Cleaner
+- More organized
+- Software improvement
+- Software debugging
+- Faster programing
+- Benefits users who view the project since it's more straightforward
+- Decrease in macro run time
+
 ### Cons
-### The Advantages of Refactoring Stock Analysis
+- Can affect the testing outcomes
+- Not having proper test cases for the existing codes when the application is too large
