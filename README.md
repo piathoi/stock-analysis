@@ -21,8 +21,7 @@ The neccessery steps before refactoring are create an outline for the code, whic
 
 
 #### 2. Arrays are created for 'tickers', 'totalVolumes', 'startingPrice'and 'endingPrice'
-<img width="168" alt="Screen Shot 2022-04-16 at 4 33 53 PM" src="https://user-images.githubusercontent.com/102835776/163694931-145c84cf-bab0-4d7e-98eb-8ba7d8a407cf.png">
-
+<img width="378" alt="Screen Shot 2022-04-16 at 5 36 49 PM" src="https://user-images.githubusercontent.com/102835776/163695475-2e1272c9-905f-4cf5-a0fd-7e76af9a30c7.png">
 
 #### 3. The 'tickers' is used to access the stock ticker index for the 'tickers', 'totalVolumes', 'startingPrice'and 'endingPrice' arrays
 <img width="373" alt="Screen Shot 2022-04-16 at 5 09 08 PM" src="https://user-images.githubusercontent.com/102835776/163694960-343feda8-a5f6-42fa-81dd-658271a4c830.png">
